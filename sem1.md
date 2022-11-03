@@ -2,7 +2,7 @@ layout: page
 title: "Semaine 1"
 permalink: /sem1
 
-== Présentations ==
+== Présentations de la semaine ==
 # Présentation du plan d'étude
 # Présentation du matériel qui sera utilisé
 #* PicKit4
